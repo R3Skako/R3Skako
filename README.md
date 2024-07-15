@@ -12,5 +12,5 @@ Python (Learning, basic knowledge)\
 C++ (Planning to learn)\
 C# (Planning to learn)
 ## Little bit about me
-I am interested mainly in networking and game development... nothing really much interesting about me.\
+I am interested mainly in networking and game development... nothing really much interesting about me.
 # Hope you have a great day!
