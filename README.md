@@ -8,7 +8,7 @@ English, Icelandic (Near-Native)\
 Ukrainian (Experienced)\
 Japanese (Learning)
 ### Programming Languages
-Python (Learning, basic knowledge)\
+Python (Learning, basic-beginner knowledge)\
 C++ (Planning to learn)\
 C# (Planning to learn)
 ## Little bit about me
